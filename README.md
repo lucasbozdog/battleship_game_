@@ -1,7 +1,6 @@
-# Battleship_game
 # Battleship Terminal Game 🎯
 
-This is a simple turn-based Battleship game written in C++ for the terminal. It was developed as part of a school project and demonstrates core programming skills like:
+This is a simple turn-based Battleship game written in C++ for the terminal. It was developed as part of a **team school project** and demonstrates core programming skills like:
 
 - Object-Oriented Programming (OOP)
 - File I/O and persistent game state
@@ -10,6 +9,9 @@ This is a simple turn-based Battleship game written in C++ for the terminal. It 
 - Basic logic and random AI behavior
 
 > ⚠️ Note: This is a school assignment, so the gameplay is basic and not fully feature-complete. It serves more as a programming showcase than a polished game.
+
+> 🧑‍🤝‍🧑 **Team note:**  
+> The board creation and initial ship placement (represented in the `.txt` files) were handled by my colleague. My focus was on implementing the game logic, attack system, and file persistence using C++.
 
 ---
 
@@ -83,3 +85,8 @@ Although this project is now complete, it could be expanded in the future:
 - Use of the `Ship` class in active game logic
 - Multiplayer support or GUI version
 
+---
+
+## 📜 License
+
+This project is released under the [MIT License](LICENSE).
