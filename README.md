@@ -85,8 +85,3 @@ Although this project is now complete, it could be expanded in the future:
 - Use of the `Ship` class in active game logic
 - Multiplayer support or GUI version
 
----
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
