@@ -1,4 +1,4 @@
-# Battleship Terminal Game 🎯
+# Battleship Terminal Game 
 
 This is a simple turn-based Battleship game written in C++ for the terminal. It was developed as part of a **team school project** and demonstrates core programming skills like:
 
@@ -8,14 +8,14 @@ This is a simple turn-based Battleship game written in C++ for the terminal. It 
 - Color-coded console output
 - Basic logic and random AI behavior
 
-> ⚠️ Note: This is a school assignment, so the gameplay is basic and not fully feature-complete. It serves more as a programming showcase than a polished game.
+> Note: This is a school assignment, so the gameplay is basic and not fully feature-complete. It serves more as a programming showcase than a polished game.
 
-> 🧑‍🤝‍🧑 **Team note:**  
+> **Team note:**  
 > The board creation and initial ship placement (represented in the `.txt` files) were handled by my colleague. My focus was on implementing the game logic, attack system, and file persistence using C++.
 
 ---
 
-## 🕹️ How to Play
+##  How to Play
 
 Each player has a 10x10 grid saved in a `.txt` file:
 - `board1.txt`: your board
@@ -58,7 +58,7 @@ After each move, the program prints:
 
 ---
 
-## ⚡ Quick Demo with `.bat` file (Windows only)
+## Quick Demo with `.bat` file (Windows only)
 
 Want to see how the game looks without typing commands?
 
@@ -69,7 +69,7 @@ Just double-click the `run_game.bat` file — it will:
 
 ---
 
-## 📁 Files Overview
+## Files Overview
 
 - `src/`: C++ source code (`main.cpp`, `Board.cpp`, `Ship.cpp`)
 - `data/`: Game data files (`board1.txt`, `board2.txt`, `attackHistory.txt`)
@@ -78,7 +78,7 @@ Just double-click the `run_game.bat` file — it will:
 
 ---
 
-## 🧠 Possible Future Improvements
+## Possible Future Improvements
 
 Although this project is now complete, it could be expanded in the future:
 - Full ship placement logic and hit detection per ship
